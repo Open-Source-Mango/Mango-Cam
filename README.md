@@ -1,8 +1,6 @@
 <h2 align="center"><u>Mango Cam</u></h2>
 
 <img src="images/image.png" width="300">
-
-Mango Cam działa tylko na systemie linux
 <h4 align="center"> Mango Cam działa tylko na systemie linux </h4>
 
 <p align="center">
